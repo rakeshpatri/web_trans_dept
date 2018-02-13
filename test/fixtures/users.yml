@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  govt_uid: 1
+  criminal_record: MyText
+  approve: false
+
+two:
+  first_name: MyString
+  last_name: MyString
+  govt_uid: 1
+  criminal_record: MyText
+  approve: false
